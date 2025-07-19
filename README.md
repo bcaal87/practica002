@@ -2,3 +2,4 @@
 -- Introducción a versionamiento de software
 ### nueva linea de comando
 ### nueva linea del developer 
+### nueva linea del hotfix 
